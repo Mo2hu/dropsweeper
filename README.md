@@ -3,11 +3,13 @@
 > 智能掉落物清扫系统 — 帮你的 Minecraft 服务器自动清理堆积的掉落物
 > 
 > 带着友好的「扫地姬」陪伴，从此告别满地的圆石、沙子、箭矢。ฅ^•ﻌ•^ฅ
+> 
+> 📖 [English Version](README.en.md) | 中文
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-26.1.2-green.svg)](https://www.minecraft.net/)
 [![Fabric](https://img.shields.io/badge/Loader-Fabric-blueviolet.svg)](https://fabricmc.net/)
 [![Java](https://img.shields.io/badge/JDK-25-orange.svg)](https://www.azul.com/downloads/)
-[![License](https://img.shields.io/badge/License-CC0-lightgrey.svg)](#license)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
 
 ---
 
