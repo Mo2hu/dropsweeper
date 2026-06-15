@@ -1,5 +1,9 @@
 # DropSweeper
 
+<p align="center">
+  <img src="assets/封面.png" width="60%" alt="DropSweeper 封面">
+</p>
+
 > 智能掉落物清扫系统 — 帮你的 Minecraft 服务器自动清理堆积的掉落物
 > 
 > 带着友好的「扫地姬」陪伴，从此告别满地的圆石、沙子、箭矢。ฅ^•ﻌ•^ฅ

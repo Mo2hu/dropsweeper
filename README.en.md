@@ -1,5 +1,9 @@
 # DropSweeper
 
+<p align="center">
+  <img src="assets/封面.png" width="60%" alt="DropSweeper Cover">
+</p>
+
 > An intelligent item-drop sweeper for Minecraft servers.
 > 
 > With the friendly "Sweeper Maid" (扫地姬) by your side, say goodbye to piles of cobblestone, sand, and arrows. ฅ^•ﻌ•^ฅ
