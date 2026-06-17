@@ -12,7 +12,7 @@
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-26.1.2-green.svg)](https://www.minecraft.net/)
 [![Fabric](https://img.shields.io/badge/Loader-Fabric-blueviolet.svg)](https://fabricmc.net/)
-[![Java](https://img.shields.io/badge/JDK-25-orange.svg)](https://www.azul.com/downloads/)
+[![Java](https://img.shields.io/badge/JDK-21-orange.svg)](https://www.azul.com/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
 
 ---
